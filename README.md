@@ -1,4 +1,4 @@
-# stock-ai
+# jupyter-heroku
 
 * Create Procfile with `web: gunicorn -b 0.0.0.0:$PORT app:app`
 * Run `virtualenv venv`
