@@ -173,7 +173,7 @@ c = get_config()
 
 ## Dict of Python modules to load as notebook server extensions.Entry values can
 #  be used to enable and disable the loading ofthe extensions.
-#c.NotebookApp.nbserver_extensions = {}
+# c.NotebookApp.nbserver_extensions = {}
 
 ## The directory to use for notebooks and kernels.
 # c.NotebookApp.notebook_dir = ''
@@ -209,7 +209,7 @@ c.NotebookApp.password = 'sha1:b5ee52b7aeba:1c14a868c7c144aa8f4de73ed6850d2af9db
 #c.NotebookApp.reraise_server_extension_failures = False
 
 ## DEPRECATED use the nbserver_extensions dict instead
-#c.NotebookApp.server_extensions = []
+# c.NotebookApp.server_extensions = []
 
 ## The session manager class to use.
 #c.NotebookApp.session_manager_class = 'notebook.services.sessions.sessionmanager.SessionManager'
