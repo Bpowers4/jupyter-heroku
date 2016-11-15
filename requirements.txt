@@ -37,9 +37,17 @@ nbformat==4.1.0
 networkx==1.11
 notebook==4.2.3
 numpy==1.11.2
+pandas==0.19.1
+pandas-datareader==0.2.1
 psutil==5.0.0
 ptyprocess==0.5.1
+pyparsing==2.1.10
+python-dateutil==2.6.0
+pytz==2016.7
 pyzmq==16.0.1
+requests==2.11.1
+requests-file==1.4.1
+scipy==0.18.1
 six==1.10.0
 terminado==0.6
 tornado==4.4.2
